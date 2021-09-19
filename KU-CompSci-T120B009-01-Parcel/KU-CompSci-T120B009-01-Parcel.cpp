@@ -1,5 +1,5 @@
 ﻿/**
- * KU-CompSci-T120B009-02-Nine_Tasks.cpp
+ * KU-CompSci-T120B009-01-Parcel.cpp
  *
  * 1 uždavinys: "Siuntinys" (banderolė, registruotas laiškas, kasininkės uždavinys).
  * Apskaičiuoti, kiek mažiausiai pašto ženklų po 10, 4 ir 1 ct reikia užklijuoti ant voko paprastos banderolės (laiško), kurios svoris yra pradinis duomuo.
